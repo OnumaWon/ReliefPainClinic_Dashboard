@@ -1,0 +1,5 @@
+{
+  "name": "Chronic Pain Dashboard",
+  "description": "A sophisticated clinical dashboard for analyzing patient pain progression from intake to discharge. Upload Excel or CSV files to visualize clinical outcomes, financial metrics, and receive AI-powered medical insights.",
+  "requestFramePermissions": []
+}
